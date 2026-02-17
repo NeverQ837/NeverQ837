@@ -1,0 +1,7 @@
+{
+  "name": "DeepRest",
+  "description": "A sophisticated alarm clock and sleep companion app designed for deep, restorative rest with smart AI-powered bedtime affirmations and wake-up motivation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
